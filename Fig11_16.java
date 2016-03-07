@@ -3,8 +3,8 @@ import java.util.Scanner;
 
 public class Fig11_16 { 
   public static void main(String[] args) {
-	// New ArrayList to save input value	  
-	ArrayList<Integer> list = new ArrayList<>();  
+    // New ArrayList to save input value	  
+    ArrayList<Integer> list = new ArrayList<>();  
 		  
     int number1 = (int)(Math.random() * 10);
     int number2 = (int)(Math.random() * 10);
